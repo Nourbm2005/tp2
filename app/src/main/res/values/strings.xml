@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">tp1</string>
+
+    <!-- activity_main -->
+    <string name="welcome_title">Bienvenue</string>
+    <string name="welcome_subtitle">Appuie sur + pour ajouter une tâche</string>
+    <string name="add_task_content_description">Ajouter une tâche</string>
+
+    <!-- activity_add_task -->
+    <string name="add_task_title">Nouvelle tâche</string>
+    <string name="task_title_hint">Titre de la tâche</string>
+    <string name="save_button">Enregistrer</string>
+    <!-- activity_task_detail -->
+    <string name="task_detail_title">Task details</string>
+    <string name="task_number_label">Task number</string>
+    <string name="task_name_label">Task name</string>
+    <string name="about_button">About</string>
+    <string name="close_button">Close</string>
+    <string name="mark_done_label">Mark as done</string>
+    <string name="status_done">Done ✔</string>
+    <string name="status_not_done">Not done</string>
+    <string name="my_list_title">My list</string>
+    <string name="my_list_button">See my list</string>
+    <string name="no_tasks_yet">No tasks yet</string>
+    <!-- activity_task_list -->
+    <string name="task_list_title">Mes tâches</string>
+</resources>
